@@ -1,5 +1,12 @@
 /* This section is for media queries! */
 
+:root{
+    --main-color: #d3ad7f;
+    --black: #13131a;
+    --bg: #010103;
+    --border:.1rem solid rgba(255,255,255,.3);
+}
+
 @media (max-width:991px) {
 
     html{
